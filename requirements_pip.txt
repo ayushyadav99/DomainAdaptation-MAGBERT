@@ -1,0 +1,16 @@
+scikit-multilearn
+praat-parselmouth
+log-symbols
+openl3
+kapre
+gammatone
+soundfile
+kaldi-io
+pynvrtc
+pyaudioanalysis
+imblearn
+pytorch-qrnn
+pysptk
+# ahoproc-tools
+webrtcvad
+python-speech-features
